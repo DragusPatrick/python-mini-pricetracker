@@ -1,2 +1,2 @@
 # python-mini-scraper
-Web Scraping with Python and BeautifulSoup
+Price tracker with Python and BeautifulSoup
